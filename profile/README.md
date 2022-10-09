@@ -3,12 +3,12 @@ Query is a search engine built to integrate with your browser of choice (special
 
 ## Search the ENTIRE web in 2022
 
-🔎 Frustrated? Can't seem to buy before the blast-off?
+🔎 Familiar and comfortable search engine based on popular applications.
 
-🙋‍♂️ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🙋‍♂️ Peer-to-peer network of research and adaptations of articles for validation.
 
-⛓️ Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+⛓️ Top-of-the-line blockchain analysis for trends.
 
-💻 Be the FIRST to get the latest and the greatest.
+💻 Cross-device applications (web, mobile and desktop).
 
 #### [An ECE Dapp](https://github.com/eliascharlese)
